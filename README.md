@@ -1,0 +1,1 @@
+This repo contains the realisation of genetic algorithm for hardware aware machine learning model compression. This method enables compression techinque which takes into account model size and inference time.
